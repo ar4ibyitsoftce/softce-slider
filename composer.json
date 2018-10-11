@@ -1,0 +1,17 @@
+{
+    "name": "ar4ibyitsoftce/brand-slider",
+    "description": "Module for brands slider",
+    "authors": [
+        {
+            "name": "Ar4iByIT",
+            "email": "chepnyan93@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=7.0",
+        "laravel/framework": "5.5.*"
+    },
+    "require-dev":{
+        "phpunit/phpunit": "*"
+    }
+}
